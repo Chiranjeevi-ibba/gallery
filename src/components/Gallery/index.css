@@ -1,0 +1,11 @@
+.outer-container {
+    margin: 20px;
+}
+.image-style {
+    width: 500px;
+}
+.ul-list {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+}
